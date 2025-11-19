@@ -1843,7 +1843,7 @@
             "short_description": "FOSSA is a DIY ATM",
             "icon": "https://raw.githubusercontent.com/lnbits/fossa_extension/main/static/image/fossa.png",
             "details_link": "https://raw.githubusercontent.com/lnbits/fossa_extension/main/config.json",
-            "archive": "https://github.com/lnbits/fossa_extension/archive/refs/tags/v1.1.0.zip"
+            "archive": "https://github.com/lnbits/fossa_extension/archive/refs/tags/v1.1.0.zip",
             "hash": "a53964220b8d90343ef211e9a1de6eb03ff0319e5324586688edbd9bdb8c0761"
         },
         {
