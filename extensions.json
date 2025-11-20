@@ -1836,13 +1836,13 @@
             "id": "fossa",
             "repo": "https://github.com/lnbits/fossa_extension",
             "name": "FOSSA",
-            "version": "1.0.1",
+            "version": "1.2.0",
             "min_lnbits_version": "1.0.0",
             "short_description": "FOSSA is a DIY ATM",
             "icon": "https://raw.githubusercontent.com/lnbits/fossa_extension/main/static/image/fossa.png",
             "details_link": "https://raw.githubusercontent.com/lnbits/fossa_extension/main/config.json",
-            "archive": "https://github.com/lnbits/fossa_extension/archive/refs/tags/v1.0.1.zip",
-            "hash": "47106e5f83804071febd94cdf893586743957e7be4a26f5023900307ebf0878b"
+            "archive": "https://github.com/lnbits/fossa_extension/archive/refs/tags/v1.2.0.zip",
+            "hash": "7469697865af63da5ab4e4799259cfe747f9c1c3c9ac695f4b04022cde663502"
         },
         {
             "id": "fossa",
