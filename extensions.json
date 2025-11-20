@@ -491,7 +491,7 @@
             "name": "LNURLDevices",
             "version": "0.6.5",
             "min_lnbits_version": "0.12.6",
-            "max_lnbits_version": "1.3.0",
+            "max_lnbits_version": "1.4.0",
             "short_description": "Points of sale, ATMs, switches",
             "icon": "https://raw.githubusercontent.com/lnbits/lnurldevice/main/static/image/lnurldevice.png",
             "details_link": "https://raw.githubusercontent.com/lnbits/lnurldevice/main/config.json",
